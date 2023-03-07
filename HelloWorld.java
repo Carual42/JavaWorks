@@ -1,5 +1,7 @@
 public class HelloWorld {
   public static void main(String[] args) {
+
+  // outputs the following string
     System.out.println("Hello Alex");
     ystem.out.println("Let's play hide and seek.");
     System.out.print("Three...");

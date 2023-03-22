@@ -65,8 +65,8 @@ public class Mess {
 	public static void main(String[] args) {   
 		int year = 2001;
     String title = "Shrek";
-    int genre = 'C';
-    boolean runtime = 1.58;
-    char isPG = true;
+    char genre = 'C';
+    double runtime = 1.58;
+    boolean isPG = true;
 	}
 }

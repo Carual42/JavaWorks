@@ -92,3 +92,10 @@ public class MultAndDivide {
     System.out.println(perPerson);
 	}
 }
+
+public class Modulo {
+	public static void main(String[] args) {   
+		int students = 26;
+    
+	}
+}

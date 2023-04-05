@@ -81,3 +81,13 @@ public class PlusAndMinus {
     System.out.println(numZebrasAfterTrade);
 	}
 }
+
+public class MultAndDivide {
+	public static void main(String[] args) {   
+		double subtotal = 30;
+    double tax = 0.0875;
+    double total = (1 +tax) * subtotal;
+    System.out.println(total);
+    
+	}
+}
